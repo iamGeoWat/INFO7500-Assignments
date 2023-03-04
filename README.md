@@ -17,3 +17,8 @@ The first bid processed by the contract that sends wei greater than or equal to 
 V2.0 achieved the following:
 1. NFT auction support
 2. Upgrade ability of the auction contract
+
+## v3.0
+v3.0 achieved the following:
+1. Bid with ERC20 Token instead of ETH
+2. Creation of ERC20 Token KaiCoin
