@@ -11,3 +11,9 @@ The BasicDutchAuction.sol contract works as follows:
 4. The initial price of the item is derived from reservePrice, numBlocksAuctionOpen, and  offerPriceDecrement: initialPrice = reservePrice + numBlocksAuctionOpen*offerPriceDecrement 
 5. A bid can be submitted by any Ethereum externally-owned account. 
 The first bid processed by the contract that sends wei greater than or equal to the current price is the  winner. The wei should be transferred immediately to the seller and the contract should not accept  any more bids. All bids besides the winning bid should be refunded immediately. 
+
+## v2.0
+
+V2.0 achieved the following:
+1. NFT auction support
+2. Upgrade ability of the auction contract
