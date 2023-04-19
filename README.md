@@ -32,3 +32,6 @@ Please compile the contract before running the UI locally.
 The contract is deployed to 0x95f23A9607259b57D6cB496eF87DA142dF7ec0a8 on Goerli testnet.
 
 The UI CID is ipfs://QmV7QSxzxnkrhfUKP7veo8mKps1pXk4fCSQZn1E768XRoi
+
+## Uniswap Upgrade Project
+Document: https://docs.google.com/document/d/1mqLppH5YFeAYg_EgVZrspnFf02tRw0Yc78e-qrtFqvE
