@@ -22,3 +22,8 @@ V2.0 achieved the following:
 v3.0 achieved the following:
 1. Bid with ERC20 Token instead of ETH
 2. Creation of ERC20 Token KaiCoin
+
+## v4.0
+v4.0 implemented UI for the auction contract.
+
+Please compile the contract before running the UI locally.
