@@ -1,3 +1,6 @@
 [submodule "uniswap-upgrade/lib/forge-std"]
 	path = uniswap-upgrade/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "uniswap-upgrade/uniswap-upgrade/lib/forge-std"]
+	path = uniswap-upgrade/uniswap-upgrade/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
